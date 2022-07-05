@@ -4,3 +4,4 @@ Receita de teste
 
 - Costelada
 - Torta de frango
+- Pavê
